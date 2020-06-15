@@ -1,5 +1,4 @@
-
-##Description
+## Description
 
 OK, let’s get in higher gear! Following up on Wolf3D, Doom Nukem pushes the limits of Raycasting while adding a Game design dimension. You will create a real game by mixing Doom and Duke Nukem 3D! Many basic functional elements are identical. However, they have not been implemented the same way by the designers of both games. It’s up to you to find what works best for you and which lets you add required features that you wish to see.
 
