@@ -27,18 +27,9 @@ You can run it with `./doom-nukem`.
 If you want to edit a specific map, you can use the `--editor` command: `./doom-nukem --editor maps/level_3`.
 
 Enjoy.
+
 ___
 
-###Screenshots
+### Screenshots
 
 ![example1](screenshots/example1)
-![example2](screenshots/example2)
-![example3](screenshots/example3)
-![example4](screenshots/example4)
-![example5](screenshots/example5)
-![example6](screenshots/example6)
-![example7](screenshots/example7)
-![example8](screenshots/example8)
-![example9](screenshots/example9)
-![example10](screenshots/example10)
-![example11](screenshots/example11)
