@@ -32,4 +32,4 @@ ___
 
 ### Screenshots
 
-![example1](screenshots/example1)
+![example1](screenshots/example1.png)
