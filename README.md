@@ -39,7 +39,7 @@ ___
 ![example5](screenshots/example5.png)
 ![example6](gifs/wizoob.gif)
 ![example7](screenshots/example6.png)
-![example8](gifs/treasure_room.gif)
+![example8](gifs/poster_lever.gif)
 ![example9](gifs/shop.gif)
 ![example10](screenshots/example9.png)
 ![example11](gifs/psycho.gif)
