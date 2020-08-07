@@ -35,7 +35,7 @@ ___
 ![example1](screenshots/example1.png)
 ![example2](screenshots/example2.png)
 ![example3](screenshots/example3.png)
-![example4](screenshots/example4.png)
+![example4](gifs/beggar.gif)
 ![example5](screenshots/example5.png)
 ![example6](screenshots/example6.png)
 ![example7](screenshots/example7.png)
